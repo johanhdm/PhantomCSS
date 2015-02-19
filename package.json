@@ -21,7 +21,7 @@
 		"url": "https://github.com/Huddle/PhantomCSS/issues"
 	},
 	"dependencies": {
-		"phantomjs": "git+https://github.com/ariya/phantomjs.git#2.0.0",
+		"phantomjs": "git://github.com/johanhdm/phantomjs.git",
 		"casperjs": "~1.1.0-beta3",
 		"resemblejs": "~1.2.0"
 	}
